@@ -1,7 +1,7 @@
 - 👋  oi, eu sou a Eduarda 
 - 👀 estou interessada em mim
 - 🌱 atualmente estou aprendendo a viver
-- 💞️  _E_  💞️
+-  2°TIA
 - 📫 Eduarda.marques.camargo@escola.pr.gov.br
 
 <!---
