@@ -1,6 +1,6 @@
 - 👋  oi, eu sou a Eduarda 
 - 👀 estou interessada em mim
--🗿 atualmente estou aprendendo a viver
+- 🗿 atualmente estou aprendendo a viver
 - 📫 Eduarda.marques.camargo@escola.pr.gov.br
 
 <!---
